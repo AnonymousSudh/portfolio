@@ -39,13 +39,13 @@ const AboutPage = () => {
 						<h1 className='font-bold text-2xl'>BIOGRAPHY</h1>
 						{/* BIOGRAPHY DESC */}
 						<p className='text-lg'>
-							I’m Sudhanshu Kumar, a passionate Full Stack Developer specializing in the MERN stack with 11 months of internship experience. My technical foundation lies in JavaScript, Node.js, React, and SQL, enabling me to craft dynamic, scalable web applications that prioritize performance and user experience. I have hands-on experience developing responsive UI designs, implementing RESTful APIs, and optimizing backend systems to meet the needs of modern applications.
+							I&apos;m Sudhanshu Kumar, a passionate Full Stack Developer specializing in the MERN stack with 11 months of internship experience. My technical foundation lies in JavaScript, Node.js, React, and SQL, enabling me to craft dynamic, scalable web applications that prioritize performance and user experience. I have hands-on experience developing responsive UI designs, implementing RESTful APIs, and optimizing backend systems to meet the needs of modern applications.
 						</p>
 						<p className='text-lg'>
 							During my internships at GrowGlobal and WagKart, I tackled challenging problems, including creating a sales analysis dashboard using Angular, Node.js, and SQL and developing subscription renewal functionalities that streamlined operations. Additionally, I published two Android apps on the Google Play Store, showcasing my versatility across web and mobile platforms. My projects demonstrate expertise in integrating tools like Redux Toolkit, React Query, and modern database systems such as MongoDB and MySQL.
 						</p>
 						<p className='text-lg'>
-							I stay up-to-date with the latest technologies and thrive on solving complex technical challenges. Proficient in tools like Git, Postman, and Swagger, I bring efficiency to development workflows. Beyond coding, I have a proven record of innovation, from securing third place in a college Python competition to actively participating in hackathons. I’m driven to contribute to impactful, tech-driven projects and continuously advance my skills as a developer.
+							I stay up-to-date with the latest technologies and thrive on solving complex technical challenges. Proficient in tools like Git, Postman, and Swagger, I bring efficiency to development workflows. Beyond coding, I have a proven record of innovation, from securing third place in a college Python competition to actively participating in hackathons. I&apos;m driven to contribute to impactful, tech-driven projects and continuously advance my skills as a developer.
 						</p>
 						{/* BIOGRAPHY SCROLL SVG */}
 						<motion.svg
