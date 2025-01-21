@@ -138,7 +138,7 @@ const AboutPage = () => {
 										<br />
 										<p>
 											Developed crucial code to address walking order errors, establishing a foundational aspect of the
-											application's functionality and improving overall operational accuracy.
+											application&apos;s functionality and improving overall operational accuracy.
 										</p>
 									</div>
 									{/* JOB DATE */}
